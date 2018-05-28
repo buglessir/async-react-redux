@@ -13,4 +13,5 @@ And then :
 ```
 cd async-react-redux
 npm install
+npm start
 ```
