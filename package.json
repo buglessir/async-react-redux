@@ -2,7 +2,7 @@
   "name": "async",
   "author": "Mohammad Esmaeilzadeh | www.bugless.ir",
   "description": "This is a simple example to implement Async Reactjs and Redux requests with redux-thunk",
-  "version": "1.0",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "react": "^16.4.0",
